@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/interactive-faq-page-with-show-and-hide-using-javascript-tVYCBNyjDD)
+- Live Site URL: [Link](https://github.com/Vignesh470/FAQ-page)
 
 ## My process
 

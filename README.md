@@ -37,8 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link](https://www.frontendmentor.io/solutions/interactive-faq-page-with-show-and-hide-using-javascript-tVYCBNyjDD)
-- Live Site URL: [Link](https://github.com/Vignesh470/FAQ-page)
-
+- Live Site URL: [Link](https://vignesh470.github.io/FAQ-page/)
 ## My process
 
 ### Built with
